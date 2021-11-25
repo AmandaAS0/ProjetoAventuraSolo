@@ -1,0 +1,6 @@
+def prologo_mundo():
+
+    print("\n\nA atual governante do Reino de Thelos tem se mostrado, mesquinha, arrogante, gananciosa e dona de uma avareza incontrolável. Nascida e batizada como Ivana, a Diabo Vermelho como é chamada pelo povo e cochichada pelos súditos, leva consigo a filosofia de que tudo pode ser medido em peças de ouro e que até a própria morte pode ser subornável. Como reflexo de sua governante, o coração do povo foi se tornando cada vez mais amargurado. A pobresa foi se instaurando no reino a medida que os recursos foram sendo injustamente direcionados para os cofres privados da rainha. Durante seu casamento com seu único e finado marido concebeu apenas duas crianças: a primogênita GUERREIRA cuja bondade e nobreza diferem tanto de sua mãe que as vezes ouve-se piadas maldosas sobre uma suposta adoção. O segundo filho, NOME, que parece ter herdado toda a personalidade de sua mãe juntamente com a que faltou em GUERREIRA.\n")
+    print("\nConsumida pela doença e pelo crescente ódio de ver-se lentamente definhando, a governante despendeu seus próprios recursos e também o de seu povo a procura de uma cura, e o que ela descobriu foi algo ainda maior.")
+    print("\n\n E é aqui que a sua aventura começa...")
+prologo_mundo()
